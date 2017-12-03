@@ -43,8 +43,8 @@ var settings = {
 		"engines": [
 			["https://www.google.com/search", "q", "Google", "sg"],
 			["https://www.google.com/images", "q", "Google Images", "si"],
-			["https://duckduckgo.com", "d", "DuckDuckGo", "ddg"],
-			["https://wikipedia.org/w/index.php", "w", "Wikipedia", "sw"],
+			["https://duckduckgo.com", "q", "DuckDuckGo", "ddg"],
+			["https://en.wikipedia.org/w/index.php", "search", "Wikipedia", "sw"],
 		],
 		"focusSearch": false
 	},
